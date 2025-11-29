@@ -1,4 +1,4 @@
-# ⚡ Zeno's Dev Lab
+# ⚡ Zeno's Dev
 
 [![Learning Journey](https://img.shields.io/badge/Status-Learning%20in%20Progress-success.svg)]()
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/CmdOrlando/devlab?color=blue)]()
